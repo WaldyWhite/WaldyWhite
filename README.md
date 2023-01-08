@@ -24,7 +24,7 @@
    - paragliding, Ski and snowboarding
    - I like to develop myself and read useful literature
    
-- 📫 How to reach me: w.weis@hotmail.com
+- <img src='icons/email-envelope-back-symbol.png' width='20px' height='20px'> &nbsp;&nbsp;&nbsp;&nbsp; How to reach me: w.weis@hotmail.com
 
 
 ***
