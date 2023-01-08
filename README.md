@@ -12,11 +12,11 @@
  ###  <div align='center'>About Me:</div>
  ---
 
--  <img src='icons/png-transparent-computer-icons-labor-day-union-others.png' width='20px' height='15px'> I’m currently working on Schneider Electric AG ( Switzerland).
+-  <img src='icons/png-transparent-computer-icons-labor-day-union-others.png' width='22px' height='17px'> I’m currently working on Schneider Electric AG ( Switzerland).
 
 - <img src='icons/3500360.png' width='20px' height='20px'> I'm studying to be a Full-Stack Web Developer.
 
--  <img src='icons/png-transparent-globe-.png' width='16px' height='16px'> I speak German, English, Russian.
+-  <img src='icons/png-transparent-globe-.png' width='17px' height='17px'> I speak German, English, Russian.
 
 - :zap: In my free time,
 
