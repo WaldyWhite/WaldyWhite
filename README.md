@@ -23,7 +23,9 @@
 
 ***
 
-### <div align='center'>:hammer_and_wrench: Programming languages and Tools :</div>
+<div align='center'><img src='icons/operated-tools.png' width='50px'></div>
+
+#### <div align='center'>Programming languages and Tools</div>
 
 <br>
 
@@ -44,6 +46,7 @@
 </div>
 
 <br>
+
 <div align='center'>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WaldyWhite&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
