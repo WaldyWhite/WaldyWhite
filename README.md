@@ -4,11 +4,11 @@
 
 ### <div align='center'>< Hello, World ! ></div>
 
-# <div align='center'>i'm Waldemar Weis</div>
+## <div align='center'>i'm Waldemar Weis</div>
 
 <div align='center'><img src='icons/miscellaneous-logo.png' width='100px' height='100px'></div>
 
- ##  <div align='center'></div>
+ ###  <div align='center'>About Me:</div>
 
 -  🔭 I’m currently working on Schneider Electric AG ( Switzerland).
 
