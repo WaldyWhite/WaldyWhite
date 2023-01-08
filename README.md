@@ -24,10 +24,6 @@
 ***
 
 ### <div align='center'>:hammer_and_wrench: Programming languages and Tools :</div>
-<<<<<<< HEAD
-=======
-
->>>>>>> d27a300061c442891d501058979389d2736257d3
 
 <br>
 <div align='center'>
