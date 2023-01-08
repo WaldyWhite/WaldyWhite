@@ -1,9 +1,13 @@
-### Hi there 👋
+<div align='center'><img src='icons/2111612.png'></div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## <div align='center'>Hi there 👋</div>
+
+# <div align='center'>i'm Waldemar Weis</div>
+
+
+- 🔭 I’m currently working on Schneider Electric
+- 🌱 I'm learning to be a full stack web developer.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
