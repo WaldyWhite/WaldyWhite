@@ -14,7 +14,7 @@
 
 -  <img src='icons/png-transparent-computer-icons-labor-day-union-others.png' width='20px' height='20px'>&nbsp;&nbsp;&nbsp;&nbsp; I’m currently working on Schneider Electric AG ( Switzerland).
 
-- <img src='icons/3500360.png' width='20px' height='20px'>&nbsp;&nbsp;&nbsp;&nbsp;  I'm studying to be a Full-Stack Web Developer.
+- <img src='icons/3500360.png' width='20px' height='20px'>&nbsp;&nbsp;&nbsp;  I'm studying to be a Full-Stack Web Developer.
 
 -  <img src='icons/png-transparent-globe-.png' width='17px' height='17px'> &nbsp;&nbsp;&nbsp;&nbsp;I speak German, English, Russian.
 
@@ -24,7 +24,7 @@
    - paragliding, Ski and snowboarding
    - I like to develop myself and read useful literature
    
-- <img src='icons/email-envelope-back-symbol.png' width='20px' height='20px'> &nbsp;&nbsp;&nbsp;&nbsp; How to reach me: w.weis@hotmail.com
+- <img src='icons/email-envelope-back-symbol.png' width='20px' height='20px'>&nbsp;&nbsp;&nbsp;&nbsp; How to reach me: w.weis@hotmail.com
 
 
 ***
