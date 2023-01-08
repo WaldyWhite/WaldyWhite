@@ -19,13 +19,13 @@
 -  <img src='icons/png-transparent-globe-.png' width='17px' height='17px'> &nbsp;&nbsp;&nbsp;&nbsp;I speak German, English, Russian.
 
 - <img src='icons/clipart2142431.png' width='20px' height='20px'>&nbsp;&nbsp;&nbsp;&nbsp; What do I like to do in my free time?
-   - I love taking photos
-   - play guitar and piano
-   - paragliding, Ski and snowboarding
-   - I like to develop myself and read useful literature
+   - <p>&nbsp;&nbsp; I love taking photos.</p>
+   - <p>&nbsp;&nbsp; Play guitar and piano.</p>
+   - <p>&nbsp;&nbsp; Paragliding, Ski and snowboarding.</p>
+   - <p>&nbsp;&nbsp; I like to develop myself and read useful literature.</p>
+
    
 - <img src='icons/email-envelope-back-symbol.png' width='20px' height='20px'>&nbsp;&nbsp;&nbsp;&nbsp; How to reach me: w.weis@hotmail.com
-
 
 ***
 ---
