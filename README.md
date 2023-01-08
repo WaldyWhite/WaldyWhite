@@ -6,9 +6,9 @@
 
 # <div align='center'>i'm Waldemar Weis</div>
 
+<div align='center'><img src='icons/miscellaneous-logo.png' width='150px' height='150px'></div>
 
  ##  <div align='center'>About Me:</div>
-<div align='center'><img src='gifs/giphy.gif' width='150px' height='150px'></div>
 
 -  🔭 I’m currently working on Schneider Electric AG ( Switzerland).
 
