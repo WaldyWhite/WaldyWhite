@@ -6,9 +6,10 @@
 
 ## <div align='center'>i'm Waldemar Weis</div>
 
-<div align='center'><img src='icons/miscellaneous-logo.png' width='100px' height='100px'></div>
+<div align='center'><img src='icons/miscellaneous-logo.png' width='80px' height='80px'></div>
 
  ###  <div align='center'>About Me:</div>
+ ---
 
 -  🔭 I’m currently working on Schneider Electric AG ( Switzerland).
 
@@ -22,6 +23,7 @@
 
 
 ***
+---
 
 <div align='center'><img src='icons/operated-tools.png' width='50px' ></div>
 
@@ -41,6 +43,7 @@
 </div>
 
 ***
+---
 <div align='center'>
     <img src='icons/Stats.svg' width='50px'>
 </div>
