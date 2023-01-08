@@ -43,20 +43,10 @@
 
 ***
 <div align='center'>
-<<<<<<< HEAD
 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WaldyWhite&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
-
-=======
-           
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WaldyWhite)](https://git.io/streak-stats)
-           
-</div>
->>>>>>> d27a300061c442891d501058979389d2736257d3
 
