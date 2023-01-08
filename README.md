@@ -6,7 +6,6 @@
 ### <div align='center'>Hello, World !</div>
 
 ## <div align='center'>I'm Waldemar Weis</div>
----
 
 <div align='center'><img src='icons/miscellaneous-logo.png' width='80px' height='80px'>
 </div>
