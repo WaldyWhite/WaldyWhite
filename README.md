@@ -23,7 +23,7 @@
 
 ***
 
-<div align='center'><img src='icons/operated-tools.png' width='80px'></div>
+<div align='center'><img src='icons/operated-tools.png' width='50px'></div>
 
 #### <div align='center'>Programming languages and Tools</div>
 
