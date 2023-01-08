@@ -21,7 +21,7 @@
 -  <img src='icons/png-transparent-globe-.png' width='17px' height='17px'> &nbsp;&nbsp;&nbsp;&nbsp;I speak German, English, Russian.
 
 - <img src='icons/clipart2142431.png' width='20px' height='20px'>&nbsp;&nbsp;&nbsp;&nbsp; What do I like to do in my free time?
-   - <p>&nbsp;&nbsp;I love taking photos.</p>
+   - <p>&nbsp;&nbsp;I like taking photos.</p>
    - <p>&nbsp;&nbsp;Play guitar and piano.</p>
    - <p>&nbsp;&nbsp;Paragliding, Ski and snowboarding.</p>
    - <p>&nbsp;&nbsp;I like to develop myself and read useful literature.</p>
