@@ -23,11 +23,7 @@
 
 ***
 
-<<<<<<< HEAD
 <div align='center'><img src='icons/operated-tools.png' width='50px' ></div>
-=======
-<div align='center'><img src='icons/operated-tools.png' width='50px'></div>
->>>>>>> 6acf6899902e711f57dbabe835c2100ef04a9261
 
 #### <div align='center'>Programming languages and Tools</div>
 
