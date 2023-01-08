@@ -1,4 +1,4 @@
-<div align='center'><img src='icons/2111612.png'></div>
+<div align='center'><img src='icons/2111612.png' width='50px' height='50pf'></div>
 
 
 ## <div align='center'>Hi there 👋</div>
