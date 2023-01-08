@@ -10,15 +10,15 @@
  ##  <div align='center'>About Me:</div>
 <div align='center'><img src='gifs/giphy.gif' width='150px' height='150px'></div>
 
--  #### 🔭 I’m currently working on Schneider Electric AG ( Switzerland).
+-  🔭 I’m currently working on Schneider Electric AG ( Switzerland).
 
-- #### :man_technologist: I'm studying to be a Full-Stack Web Developer.
+- :man_technologist: I'm studying to be a Full-Stack Web Developer.
 
-- #### :earth_africa: I speak German, English, Russian.
+-  :earth_africa: I speak German, English, Russian.
 
-- #### :zap: In my free time,
+- :zap: In my free time,
 
-- #### 📫 How to reach me: w.weis@hotmail.com
+- 📫 How to reach me: w.weis@hotmail.com
 
 
 ***
@@ -40,7 +40,7 @@
 
 ***
 <div align='center'>
-    <img src='icons/Stats.svg' width='80px'>
+    <img src='icons/Stats.svg' width='50px'>
 </div>
 
 <br>
@@ -53,7 +53,7 @@
 
 <div align='center'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaldyWhite )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaldyWhite)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
