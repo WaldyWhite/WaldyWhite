@@ -1,16 +1,19 @@
 <div align='center'><img src='icons/2111612.png' width='30px'></div>
            
 ***
+---
 
-### <div align='center'>< Hello, World ! ></div>
+### <div align='center'>Hello, World !</div>
 
-## <div align='center'>i'm Waldemar Weis</div>
+## <div align='center'>I'm Waldemar Weis</div>
+---
 
 <div align='center'><img src='icons/miscellaneous-logo.png' width='80px' height='80px'>
 </div>
 
- ###  <div align='center'>About Me:</div>
- ---
+ ####  <div align='center'>About Me</div>
+
+ <br>
 
 -  <img src='icons/png-transparent-computer-icons-labor-day-union-others.png' width='20px' height='20px'>&nbsp;&nbsp;&nbsp;&nbsp; I’m currently working on Schneider Electric AG ( Switzerland).
 
@@ -27,7 +30,6 @@
    
 - <img src='icons/email-envelope-back-symbol.png' width='20px' height='20px'>&nbsp;&nbsp;&nbsp;&nbsp; How to reach me: w.weis@hotmail.com
 
-***
 ---
 
 <div align='center'><img src='icons/operated-tools.png' width='50px' ></div>
@@ -47,13 +49,12 @@
 <img src='icons/vscode-original.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-***
 ---
 <div align='center'>
     <img src='icons/Stats.svg' width='50px'>
 </div>
 
-##### <div align='center'>My stat</div>
+#### <div align='center'>My stat</div>
 
 <br>
 
@@ -70,5 +71,16 @@
 
 </div>
 
-***
 
+---
+
+<br>
+
+<div align='center'>
+  <a href='/'><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="LinkedIn Badge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='/'><img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='/'><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/></a>
+</div>
+
+---
+---
