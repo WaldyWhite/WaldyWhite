@@ -24,6 +24,10 @@
 ***
 
 ### <div align='center'>:hammer_and_wrench: Programming languages and Tools :</div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> d27a300061c442891d501058979389d2736257d3
 
 <br>
 <div align='center'>
@@ -39,6 +43,7 @@
 
 ***
 <div align='center'>
+<<<<<<< HEAD
 
 ### :fire: My Stats :
 
@@ -46,4 +51,12 @@
 
 </div>
 
+=======
+           
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WaldyWhite)](https://git.io/streak-stats)
+           
+</div>
+>>>>>>> d27a300061c442891d501058979389d2736257d3
 
