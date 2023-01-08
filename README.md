@@ -1,24 +1,29 @@
-<div align='center'><img src='icons/2111612.png' width='100px' height='100pf'></div>
+<div align='center'><img src='icons/2111612.png' width='80px' height='80pf'></div>
            
 ***
 
-#### <div align='center'>< Hello, World ! ></div>
+### <div align='center'>< Hello, World ! ></div>
 
-## <div align='center'>i'm Waldemar Weis</div>
-***
+# <div align='center'>i'm Waldemar Weis</div>
 
-### <div align='center'>About Me...</div>
+
+## <div align='center'>About Me...</div>
 <div align='center'><img src='gifs/giphy.gif' width='150px' height='150px'></div>
 
--  🔭 I’m currently working on Schneider Electric
+-  ### 🔭 I’m currently working on Schneider Electric AG ( Switzerland).
 
-- 🌱 I'm learning to be a Full-Stack Web Developer.
-- :zap: In my free time,
-- 📫 How to reach me: w.weis@hotmail.com
+- ### :man_technologist: I'm learning to be a Full-Stack Web Developer.
+
+- ### :earth_africa: I speak German, English, Russian.
+
+- ### :zap: In my free time,
+
+- ### 📫 How to reach me: w.weis@hotmail.com
+
 
 ***
 
-#### :hammer_and_wrench: Programming languages and Tools :
+### <div align='center'>:hammer_and_wrench: Programming languages and Tools :</div>
 
 <br>
 <div align='center'>
@@ -32,8 +37,13 @@
 <img src='icons/vscode-original.svg' width='50px'>
 </div>
 
-
 ***
+<div align='center'>
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WaldyWhite&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 
