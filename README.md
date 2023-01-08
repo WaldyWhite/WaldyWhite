@@ -6,16 +6,17 @@
 
 ## <div align='center'>i'm Waldemar Weis</div>
 
-<div align='center'><img src='icons/miscellaneous-logo.png' width='80px' height='80px'></div>
+<div align='center'><img src='icons/miscellaneous-logo.png' width='80px' height='80px'>
+</div>
 
  ###  <div align='center'>About Me:</div>
  ---
 
--  🔭 I’m currently working on Schneider Electric AG ( Switzerland).
+-  <img src='icons/png-transparent-computer-icons-labor-day-union-others.png' width='20px' height='15px'> I’m currently working on Schneider Electric AG ( Switzerland).
 
-- :man_technologist: I'm studying to be a Full-Stack Web Developer.
+- <img src='icons/3500360.png' width='20px' height='20px'> I'm studying to be a Full-Stack Web Developer.
 
--  :earth_africa: I speak German, English, Russian.
+-  <img src='icons/png-transparent-globe-.png' width='16px' height='16px'> I speak German, English, Russian.
 
 - :zap: In my free time,
 
