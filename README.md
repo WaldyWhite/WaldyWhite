@@ -53,6 +53,8 @@
     <img src='icons/Stats.svg' width='50px'>
 </div>
 
+##### <div align='center'>My stat</div>
+
 <br>
 
 <div align='center'>
