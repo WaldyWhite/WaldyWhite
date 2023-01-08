@@ -12,7 +12,7 @@
 
 -  #### 🔭 I’m currently working on Schneider Electric AG ( Switzerland).
 
-- #### :man_technologist: I'm learning to be a Full-Stack Web Developer.
+- #### :man_technologist: I'm studying to be a Full-Stack Web Developer.
 
 - #### :earth_africa: I speak German, English, Russian.
 
@@ -26,20 +26,21 @@
 ### <div align='center'>:hammer_and_wrench: Programming languages and Tools :</div>
 
 <br>
+
 <div align='center'>
-<img src='icons/html5-original.svg' width='50px'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/css3-original.svg' width='50px'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/javascript-original.svg' width='50px'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/photoshop-plain.svg' width='50px'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/php-original.svg' width='50px'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/pycharm-original.svg' width='50px'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/python-original.svg' width='50px'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/vscode-original.svg' width='50px'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='icons/html5-original.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='icons/css3-original.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='icons/javascript-original.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='icons/photoshop-plain.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='icons/php-original.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='icons/pycharm-original.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='icons/python-original.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='icons/vscode-original.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ***
 <div align='center'>
-    <img src='icons/Stats.svg'>
+    <img src='icons/Stats.svg' width='80px'>
 </div>
 
 <br>
@@ -52,7 +53,7 @@
 
 <div align='center'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaldyWhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaldyWhite )](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
