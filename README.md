@@ -1,4 +1,4 @@
-<div align='center'><img src='icons/2111612.png' width='100px' height='100pf'></div>
+<div align='center'><img src='icons/2111612.png' width='80px' height='80pf'></div>
            
 ***
 
