@@ -2,26 +2,22 @@
            
 ***
 
-#### <div align='center'>Hi there</div>
+#### <div align='center'>< Hello, World ! ></div>
 
 ## <div align='center'>i'm Waldemar Weis</div>
 ***
 
-### About Me...
-<div align='center'><img src='gifs/giphy (spigel).gif' width='150px' height='150px'></div>
+### <div align='center'>About Me...</div>
+<div align='center'><img src='gifs/giphy.gif' width='150px' height='150px'></div>
 
+-  🔭 I’m currently working on Schneider Electric
 
-
-- 🔭 I’m currently working on Schneider Electric
 - 🌱 I'm learning to be a Full-Stack Web Developer.
-- 👯 I’m looking to collaborate on ...
 - 🤔 My programming knowledge ...
-  * HTML & CSS (basics)
-  * JavaScript (basics)
-  * Python (basics)
-  * PHP (basics)
-- 💬 Ask me about ...
+  * <img src='icons/html5-original.svg' width='10px'> HTML & <img src='icons/css3-original.svg' width='10px'> CSS (basics)
+  * <img src='icons/javascript-original.svg' width='10px'> JavaScript (basics)
+  * <img src='icons/php-original.svg' width='15px'> PHP (basics)
+  * <img src='icons/python-original.svg' width='10px'> Python (basics)
+
 - 📫 How to reach me: w.weis@hotmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...  
 
