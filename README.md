@@ -18,7 +18,8 @@
 
 ***
 
-#### :hammer_and_wrench: Programming languages and Tools :
+### <div align='center'>:hammer_and_wrench: Programming languages and Tools :</div>
+
 
 <br>
 <div align='center'>
@@ -34,9 +35,11 @@
 
 
 ***
+<div align='center'>
+           
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WaldyWhite)](https://git.io/streak-stats)
-
-
+           
+</div>
 
