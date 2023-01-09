@@ -1,4 +1,4 @@
-<div align='center'><img src='icons/2111612.png' width='30px'></div>
+<div align='center'><img src='icons/2111612.png' width='50px'></div>
            
 ***
 ---
@@ -7,7 +7,7 @@
 
 ## <div align='center'>I'm Waldemar Weis</div>
 
-<div align='center'><img src='icons/miscellaneous-logo.png' width='80px' height='80px'>
+<div align='center'><img src='icons/miscellaneous-logo.png' width='50px' height='50px'>
 </div>
 
  ####  <div align='center'>About Me</div>
