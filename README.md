@@ -79,7 +79,7 @@
 
 <div align='center'>
   <a href='/'><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="LinkedIn Badge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href='/'><img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://www.instagram.com/waldywhite/'><img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href='/'><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 
