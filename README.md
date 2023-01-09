@@ -1,7 +1,9 @@
-<div align='center'><img src='icons/2111612.png' width='50px'></div>
-           
 ***
 ---
+
+<div align='center'><img src='icons/2111612.png' width='40px'></div>
+           
+
 
 ### <div align='center'>Hello, World !</div>
 
