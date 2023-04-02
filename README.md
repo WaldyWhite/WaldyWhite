@@ -40,17 +40,19 @@
 <br>
 
 <div align='center'>
-<img src='icons/html5-original.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/css3-original.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/javascript-original.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/photoshop-plain.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/php-original.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/pycharm-original.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/python-original.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/vscode-original.svg' width='30px'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 ---
+<br>
 <div align='center'>
     <img src='icons/Stats.svg' width='50px'>
 </div>
