@@ -74,10 +74,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaldyWhite)](https://github.com/WaldyWhite/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WaldyWhite&&show_icons=true&theme=white)](https://github.com/WaldyWhite/github-readme-stats)
 </div>
-
-
-
 
 
 ---
