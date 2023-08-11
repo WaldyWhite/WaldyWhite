@@ -75,9 +75,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaldyWhite)](https://github.com/WaldyWhite/github-readme-stats)
 
 </div>
-<div align = "center">
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?](https://github-readme-stats.vercel.app/api/top-langs/?username=WaldyWhite)](https://github.com/WaldyWhite/github-readme-stats)
-</div>
+
 
 
 
