@@ -16,7 +16,7 @@
 
  <br>
 
--  <img src='icons/png-transparent-computer-icons-labor-day-union-others.png' width='20px' height='20px'>&nbsp;&nbsp;&nbsp;&nbsp; I’m currently working on Schneider Electric AG ( Switzerland).
+-  <img src='icons/png-transparent-computer-icons-labor-day-union-others.png' width='20px' height='20px'>&nbsp;&nbsp;&nbsp;&nbsp; I’m currently working on NTT Global DC (Switzerland).
 
 - <img src='icons/3500360.png' width='20px' height='20px'>&nbsp;&nbsp;&nbsp;  I'm studying to be a Full-Stack Web Developer.
 
